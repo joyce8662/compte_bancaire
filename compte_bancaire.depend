@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1713108178 source:c:\users\diane\desktop\c++ compte bancaire\compte_bancaire\main.cpp
+	<iostream>
+	<string>
+	"Compte_bancaire.h"
+
+1713108227 c:\users\diane\desktop\c++ compte bancaire\compte_bancaire\include\compte_bancaire.h
+	<string>
+
+1713108421 source:c:\users\diane\desktop\c++ compte bancaire\compte_bancaire\src\compte_bancaire.cpp
+	"Compte_bancaire.h"
+	<string>
+	<iostream>
+
